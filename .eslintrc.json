@@ -1,0 +1,14 @@
+{
+    "parser": "typescript-eslint-parser",
+    "plugins": [
+        "typescript"
+    ],
+    "parserOptions": {
+        "jsx": true,
+        "useJSXTextNode": true
+    },
+    "env": {
+        "browser": true,
+        "node": true
+    }
+}
